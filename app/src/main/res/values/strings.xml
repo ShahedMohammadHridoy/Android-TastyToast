@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Custom Toast</string>
+    <string name="button_success">Success</string>
+    <string name="button_warning">Warning</string>
+    <string name="button_error">Error</string>
+    <string name="button_info">Info</string>
+    <string name="button_default">Default</string>
+    <string name="button_confusing">Confusing</string>
+</resources>
